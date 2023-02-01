@@ -1,12 +1,12 @@
-                                                          **  Hi 👋, I'm Punita Kumari **
-                                                   ** A passionate Data analyst from India **
+                                                           Hi 👋, I'm Punita Kumari 
+                                                    A passionate Data analyst from India 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitakumar&label=Profile%20views&color=0e75b6&style=flat" alt="punitakumar" /> </p>
 
-                - 👨‍💻 All of my projects are available at [https://www.kaggle.com/punitakumari2022](https://www.kaggle.com/punitakumari2022)
+ - 👨‍💻 All of my projects are available at [https://www.kaggle.com/punitakumari2022](https://www.kaggle.com/punitakumari2022)
 
-                - 💬 Ask me about **Python |MySQL | Microsoft power bi | Microsoft Excel | Power query| DAX**
+ - 💬 Ask me about **Python |MySQL | Microsoft power bi | Microsoft Excel | Power query| DAX**
 
-                - 📫 How to reach me **punitasingh175@gmail.com**
+  - 📫 How to reach me **punitasingh175@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
