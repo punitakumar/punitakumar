@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/punitakumari2022](https://www.kaggle.com/punitakumari2022)
 
-- 💬 Ask me about **Power BI,Python(Pandas,NumPy)**
+- 💬 Ask me about **Python |MySQL | Microsoft power bi | Microsoft Excel | Power query| DAX**
 
 - 📫 How to reach me **punitasingh175@gmail.com**
 
