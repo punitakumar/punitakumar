@@ -1,5 +1,5 @@
-h1 align="center">Hi 👋, I'm Punita Kumari</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+                                                                         👋, I'm Punita Kumari
+                                                                   A passionate Data analyst from India
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/punitakumari2022](https://www.kaggle.com/punitakumari2022)
 
