@@ -1,5 +1,8 @@
                                                            Hi 👋, I'm Punita Kumari 
                                                     A passionate Data analyst from India 
+This is Punita. By educational qualification I am an Aeronautical Engineer holding PhD. Degree in material science and Engineering. Till now I have written 14 book chapters and few papers on my PhD course.
+I am always eager to learn new technologies and related software skill this is why after all having PhD I developed interest towards It field and learnt advanced excel , python and power BI.
+I love to play with data. I believe that learning is lifetime process and need to learn new things everyday.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitakumar&label=Profile%20views&color=0e75b6&style=flat" alt="punitakumar" /> </p>
 
  - 👨‍💻 All of my projects are available at [https://www.kaggle.com/punitakumari2022](https://www.kaggle.com/punitakumari2022)
